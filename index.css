@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: brown;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border: black;
+    color: black
+}
